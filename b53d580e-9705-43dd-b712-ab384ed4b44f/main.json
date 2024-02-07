@@ -1,4 +1,1 @@
-class StrategyRepositoryFilesSerializer(serializers.Serializer):
-    message = serializers.CharField(max_length=100, allow_blank=True, required=False)
-    content = serializers.CharField(max_length=sys.maxsize, allow_blank=True)
-    sha = serializers.CharField(max_length=150, allow_blank=True, required=False)
+welcome to my world
